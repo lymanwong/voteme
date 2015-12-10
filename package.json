@@ -1,0 +1,23 @@
+{
+  "name": "voteme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lymanwong/voteme.git"
+  },
+  "author": "Lyman Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lymanwong/voteme/issues"
+  },
+  "homepage": "https://github.com/lymanwong/voteme#readme",
+  "dependencies": {
+    "hapi": "^11.1.2",
+    "twilio": "^2.7.0"
+  }
+}
